@@ -1,0 +1,289 @@
+#About {
+    font-family: Arial;
+    font-size: 13px;
+    color:#202020;
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 23px;
+    right: 0px;
+    bottom: 0px;
+    left: 25px;
+    height: 20px;
+    width: 50px;
+}
+#Store {
+    font-family: Arial;
+    font-size: 13px;
+    color:#202020;
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 23px;
+    right: 0px;
+    bottom: 0px;
+    left: 77.6px;
+    height: 20px;
+    width: 50px;
+}
+
+#Gmail {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color:#202020;
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 23px;
+    right: 0px;
+    bottom: 0px;
+    left: 1228px;
+    height: 20px;
+    width: 50px;
+}
+
+#Images {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color:#202020;
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 23px;
+    right: 0px;
+    bottom: 0px;
+    left: 1277px;
+    height: 20px;
+    width: 50px;
+}
+
+#grid {
+    color:#737373;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 22px;
+    right: 0px;
+    bottom: 0px;
+    left: 1340px;
+    height: 20px;
+    width: 20px;
+}
+
+#profilePic {
+    border-radius: 50%;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 13px;
+    right: 0px;
+    bottom: 0px;
+    left: 1376px;
+    height: 40px;
+    width:40px;
+}
+
+#Advertising {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    font-size: 13px;
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 673px;
+    right: 0px;
+    bottom: 0px;
+    left: 30px;
+    height: 20px;
+    width: 50px;
+}
+
+#Business {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    font-size: 13px;
+    text-decoration: none;
+    display: inline;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 673px;
+    right: 0px;
+    bottom: 0px;
+    left: 120px;
+    height: 20px;
+    width: 50px;
+}
+
+#Privacy {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    font-size: 13px;
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 673px;
+    right: 0px;
+    bottom: 0px;
+    left: 1230px;
+    height: 20px;
+    width: 50px;
+}
+
+#Terms {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    font-size: 13px;
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 673px;
+    right: 0px;
+    bottom: 0px;
+    left: 1300px;
+    height: 20px;
+    width: 50px;
+}
+
+#How-Search-works {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    font-size: 13px;
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 673px;
+    right: 0px;
+    bottom: 0px;
+    left: 200px;
+    height: 20px;
+   
+}
+
+#Settings {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f6368;
+    font-size: 13px;
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 673px;
+    right: 0px;
+    bottom: 0px;
+    left: 1363px;
+    height: 20px;
+    width: 50px;
+}
+
+#google-logo {
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 66px;
+    right: 0px;
+    bottom: 0px;
+    left: 583px;
+    height: 275px;
+    width: 270px;
+}
+
+#mic {
+    position: absolute;
+    top: 287px;
+    right: 10px;
+    bottom: 0px;
+    left: 972px;
+    z-index: 1000;
+}
+
+#search-bar {
+    display: block;
+    position: absolute;
+    top: 275px;
+    right: 0px;
+    bottom: 0px;
+    left: 430px;
+    border-radius: 200px;
+    height: 50px;
+    width: 575px;
+    border-width: 1px;
+    border-color:#E0E1E5;
+    margin: 0px; 
+    width: 574px; 
+    height: 39px;
+    border-style: solid;
+}
+
+footer {
+    height: 40px;
+    width: 1438px;
+    display: block;
+    position: absolute;
+    top: 660px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background: #f2f2f2;
+    line-height: 0px;
+    font-size: 1px;
+}
+
+#magnifying-glass {
+    position: absolute;
+    top: 290px;
+    right: 12px;
+    bottom: -1px;
+    left: 449px;
+    z-index: 1000;
+}
+
+#search-button {
+    position: absolute;
+    display: block;
+    top: 345px;
+    right: 11px;
+    bottom: 0px;
+    left: 570px;
+    height: 35px;
+    width: 130px;
+    font-size: 14px;
+    border-color: #F2F2F2;
+    background-color: #F2F2F2;
+    color: #5F6368;
+}
+
+#im-feeling-lucky-button {
+    position: absolute;
+    display: block;
+    top: 345px;
+    right: 11px;
+    bottom: 0px;
+    left: 711px;
+    height: 35px;
+    width: 140px;
+    font-size: 14px;
+    border-color: #F2F2F2;
+    background-color: #F2F2F2;
+    color: #5F6368;
+}
